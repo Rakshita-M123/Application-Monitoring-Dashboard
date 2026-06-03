@@ -1,5 +1,5 @@
 # Application-Monitoring-Dashboard
-# Application Monitoring Dashboard
+
 
 ## Overview
 This project is a Python-based Application Monitoring Dashboard built using Streamlit and Pandas. It helps monitor application performance metrics and visualize operational KPIs.
